@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-black: #1d1d1d;        /* fundo principal | preto */
+  --color-bg-black-alt: #00000010;    /* fundo principal | preto + transparência */
+  --color-bg-white: #fdfdfd;        /* fundo principal | branco */
+  --color-bg-card: #18181b;   /* fundo dos cards (ProjectCard, etc.) */
+
+  --color-text-white: #fffbeb;      /* texto | branco */
+  --color-text-white-alt: #ffffff80;      /* texto | branco + transparência */
+
+  --color-muted: #ffffff80;   /* equivalente a text-white/50 */
+  --color-border: #ffffff1a;  /* equivalente a border-white/10 */
+
+  --color-accent: #a904f6;    /* cor 1: background */
+  --color-accent-alt: #2f5f97; /* cor 2: background */
+}

@@ -1,0 +1,38 @@
+export const stacks = {
+    linguagens: [
+        { name: "HTML", icon: "html5-plain" },
+        { name: "CSS", icon: "css3-plain" },
+        { name: "JavaScript", icon: "javascript-plain" },
+        { name: "React", icon: "react-original" },
+        { name: "Bootstrap", icon: "bootstrap-plain" },
+        { name: "Tailwind", icon: "tailwindcss-original" },
+        { name: "Python", icon: "python-plain" },
+        { name: "C", icon: "c-original" },
+        { name: "Java", icon: "java-plain" },
+        { name: "Ruby", icon: "ruby-plain" },
+        { name: "Rails", icon: "rails-plain" },
+    ],
+    bancoDeDados: [
+        { name: "SQL/NoSQL", icon: "azuresqldatabase-plain" },
+        { name: "PostgreSQL", icon: "postgresql-plain" },
+        { name: "MySQL", icon: "mysql-original" },
+    ],
+    devops: [
+        { name: "Git", icon: "git-plain" },
+        { name: "GitHub", icon: "github-original" },
+        { name: "Bitbucket", icon: "bitbucket-original" },
+        { name: "Jenkins", icon: "jenkins-line" },
+        { name: "Docker", icon: "docker-plain" },
+        { name: "Portainer", icon: "portainer-original" },
+        { name: "Linux", icon: "linux-plain" },
+        { name: "Sentry", icon: "sentry-original" },
+        { name: "Postman", icon: "postman-plain" },
+        { name: "Ngrok", icon: "ngrok-original" },
+    ],
+    gestao: [
+        { name: "Jira", icon: "jira-plain" },
+        { name: "Trello", icon: "trello-plain" },
+        { name: "Confluence", icon: "confluence-plain" },
+        { name: "Notion", icon: "notion-plain" },
+    ],
+};
